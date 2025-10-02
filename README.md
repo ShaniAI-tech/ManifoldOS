@@ -29,8 +29,6 @@ ShaniAI is revolutionizing decentralized application development by building fou
 
 **This project is currently under active development and not ready for production use.** The codebase is experimental, features are incomplete, and breaking changes are expected. We're building the foundation for multi-chain dApp development tools.
 
-**Timeline**: Alpha release expected Q4 2024, with stable release in Q2 2025.
-
 
 ## The Problem We're Solving
 
