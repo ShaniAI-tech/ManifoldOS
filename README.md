@@ -8,14 +8,14 @@
 
 Foundational tools that eliminate the complexity of decentralized development
 
-[![Under Development](https://img.shields.io/badge/Status-Under%20Development-orange?style=for-the-badge)](https://github.com/ShaniAI-tech)
-[![Multi-Chain](https://img.shields.io/badge/Multi--Chain-Support-blue?style=for-the-badge)](https://github.com/ShaniAI-tech)
+[![Under Development](https://img.shields.io/badge/Status-Under%20Development-orange?style=for-the-badge)](https://github.com/ShaniAI-tech/ManifoldOS)
+[![Multi-Chain](https://img.shields.io/badge/Multi--Chain-Support-blue?style=for-the-badge)](https://github.com/ShaniAI-tech/ManifoldOS)
 [![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
-[![Production Ready](https://img.shields.io/badge/Production-Ready-green?style=for-the-badge)](https://github.com/ShaniAI-tech)
+[![Production Ready](https://img.shields.io/badge/Production-Ready-green?style=for-the-badge)](https://github.com/ShaniAI-tech/ManifoldOS)
 
 ⚠️ Currently Under Development - Coming Soon
 
-[Website](https://www.shaniai.tech) • [Documentation](https://github.com/ShaniAI-tech/ManifoldOS) • [Report Issues](https://github.com/ShaniAI-tech/ShaniAI/issues) • [Feature Requests](https://github.com/ShaniAI-tech/ShaniAI/issues)
+[Website](https://www.shaniai.tech) • [Documentation](https://github.com/ShaniAI-tech/ManifoldOS) • [Report Issues](https://github.com/ShaniAI-tech/ManifoldOS/issues) • [Feature Requests](https://github.com/ShaniAI-tech/ManifoldOS/issues)
 
 </div>
 
@@ -164,7 +164,7 @@ We're building ShaniAI in the open and welcome community input! While the core d
 
 **Stay Updated:**
 
-- Follow our progress on [GitHub](https://github.com/ShaniAI-tech)
+- Follow our progress on [GitHub](https://github.com/ShaniAI-tech/ManifoldOS)
 - Join discussions in our issues
 - Star the repository for updates
 
@@ -189,7 +189,7 @@ This project will be released under an open-source license (details TBD). Core t
 
 ### ShaniAI Team
 
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ShaniAI-tech)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ShaniAI-tech/ManifoldOS)
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/ShaniAI_tech)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/company/shani-ai)
 
