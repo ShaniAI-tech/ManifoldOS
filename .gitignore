@@ -1,0 +1,57 @@
+node_modules/
+
+### pnpm / package managers
+# pnpm store (optional local cache)
+.pnpm-store/
+
+# lockfiles - keep pnpm-lock.yaml at repo root; ignore other managers' locks
+package-lock.json
+yarn.lock
+
+### Environment
+.env
+.env.*
+
+### Next.js / build outputs
+.next/
+.vercel/
+out/
+dist/
+
+### TypeScript
+*.tsbuildinfo
+
+### Logs
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+
+### Editors
+.idea/
+.vscode/
+*.sublime-workspace
+
+### macOS
+.DS_Store
+.AppleDouble
+._*
+
+### Caches / coverage
+.cache/
+.parcel-cache/
+coverage/
+coverage-final.json
+.turbo/
+
+### Build folders in workspaces
+**/build/
+**/.next/
+
+### Public/generated
+public/build/
+
+### Misc
+/.npm
+.credentials
+.key
